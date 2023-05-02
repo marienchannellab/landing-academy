@@ -111,8 +111,8 @@ body {
 .academy-landing,
 .academy-landing__cooperation-block {
   color: #000000;
-  -ms-touch-action: none;
-      touch-action: none;
+/*   -ms-touch-action: none;
+      touch-action: none; */
   margin: 0 auto;
   max-width: 1207px;
 }
